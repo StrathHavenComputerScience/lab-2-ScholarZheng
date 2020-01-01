@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lab2
+comment1.params=
+comment1.target=void\ cleanSquare()
+comment2.params=
+comment2.target=void\ darkenComb()
+comment3.params=
+comment3.target=void\ makeCheckered()
+comment4.params=
+comment4.target=void\ turnRight()
+comment5.params=
+comment5.target=void\ changeToLight()
+comment6.params=
+comment6.target=void\ changeToDark()
+comment7.params=
+comment7.target=void\ moveWithCondition()
+comment8.params=
+comment8.target=void\ turnAround()
+numComments=9
